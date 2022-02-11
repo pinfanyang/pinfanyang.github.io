@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2022/02/11/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>第一篇博客（系统测试）</title>
+    <url>/2022/02/11/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95/</url>
+    <content><![CDATA[<h1 id="的奥迪sadasda"><a href="#的奥迪sadasda" class="headerlink" title="的奥迪sadasda"></a>的奥迪sadasda</h1><h2 id="打"><a href="#打" class="headerlink" title="打"></a>打</h2><p>打 打 </p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span><span class="string">&lt;iosteram&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br></pre></td></tr></table></figure>
+
+<p>12312</p>
+<p>12</p>
+<p>3</p>
+<p>12312</p>
+<p>312</p>
+<p>3</p>
+<p>123</p>
+<p>12</p>
+<p>3</p>
+<p>1213</p>
+<p>12</p>
+<p>3</p>
+<p>123</p>
+<p>12</p>
+<p>3123</p>
+<p>123</p>
+<p>12</p>
+<p>45</p>
+<p>4</p>
+<p>46</p>
+<p>456</p>
+<p>43</p>
+<p>213</p>
+<p>12</p>
+<span id="more"></span>
+
+<p>上面是阅读全文标记</p>
+<p> 123123123123123123</p>
+<p>12</p>
+<p>312312312312312312312</p>
+<p>3213123123123123</p>
+<p>123123123123</p>
+<p><a href="https://tholman.com/github-corners/">GitHub Corners (tholman.com)</a></p>
+]]></content>
+      <categories>
+        <category>前端</category>
+        <category>后端</category>
+      </categories>
+      <tags>
+        <tag>PS3</tag>
+        <tag>Games</tag>
+      </tags>
+  </entry>
+</search>
