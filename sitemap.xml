@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://pinfanyang.github.io/about/index.html</loc>
+    
+    <lastmod>2022-02-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://pinfanyang.github.io/2022/02/11/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95/</loc>
+    
+    <lastmod>2022-02-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://pinfanyang.github.io/archives/index.html</loc>
+    
+    <lastmod>2022-02-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://pinfanyang.github.io/categories/index.html</loc>
+    
+    <lastmod>2022-02-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://pinfanyang.github.io/tags/index.html</loc>
+    
+    <lastmod>2022-02-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://pinfanyang.github.io/2022/02/11/hello-world/</loc>
+    
+    <lastmod>2022-02-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  <url>
+    <loc>https://pinfanyang.github.io/</loc>
+    <lastmod>2022-02-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://pinfanyang.github.io/tags/PS3/</loc>
+    <lastmod>2022-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://pinfanyang.github.io/tags/Games/</loc>
+    <lastmod>2022-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>https://pinfanyang.github.io/categories/%E5%89%8D%E7%AB%AF/</loc>
+    <lastmod>2022-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://pinfanyang.github.io/categories/%E5%90%8E%E7%AB%AF/</loc>
+    <lastmod>2022-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+</urlset>
